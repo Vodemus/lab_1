@@ -1,0 +1,2 @@
+C:\Users\lab_1\test1\Debug\test1.exe
+C:\Users\lab_1\test1\Debug\test1.pdb
